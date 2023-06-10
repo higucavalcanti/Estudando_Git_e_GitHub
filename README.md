@@ -1,3 +1,3 @@
-# Repositório criado para estudos do Git e GitHub
+# Repositório para estudos do Git e GitHub
 
-projeto simples apenas para aprendizagem e testes dos comandos "git".
+Criação de um projeto simples apenas para aprendizagem e testes dos comandos "git".
